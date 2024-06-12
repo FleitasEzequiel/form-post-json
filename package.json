@@ -1,0 +1,22 @@
+{
+  "name": "bdtlp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "s": "node --watch main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "morgan": "^1.10.0",
+    "mysql2": "^3.10.0"
+  },
+  "devDependencies": {
+    "http": "^0.0.1-security",
+    "nodemon": "^3.1.3"
+  }
+}
